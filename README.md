@@ -15,5 +15,5 @@
 *a program that allows the user to calculate the tip for a restaurant bill*
  
  
-## Paint Program 
+## [Paint Program](https://github.com/miss-eronwu/Python-Projects/blob/41316e66127504bdd9402cc1a44e9bfd90c03258/height_width.py) 
 *A program that allows you to count how many cans of paint are needed to paint a room by calculating the height and width of the room*
