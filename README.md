@@ -9,3 +9,8 @@ a python program that lets you order pizza
  
 ## roller coaster
  a program that lets you buy tickets to ride a rollercoaster 
+ 
+ 
+## TipCalc.py
+a program that allows the user to calculate the tip for a restaurant bill
+ 
