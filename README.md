@@ -11,9 +11,9 @@
  *a program that lets you buy tickets to ride a rollercoaster*
  
  
-## TipCalc.py
+## [Tip Calculator](https://github.com/miss-eronwu/Python-Projects/blob/92e67774d5e2b9c3b0386ce3142bb98022b78aa3/tipcalc.py)
 *a program that allows the user to calculate the tip for a restaurant bill*
  
  
-## Height_width
-*A program that allows you to count how many cans of paint are needed to paint a room*
+## Paint Program 
+*A program that allows you to count how many cans of paint are needed to paint a room by calculating the height and width of the room*
