@@ -1,11 +1,11 @@
 # Python-Projects
 A list of my python projects 
 
-<u>leap-year<u>
-you input a year and it the program tells you whether or not if its a leap yera 
+## leap-year 			
+you input a year and it the program tells you whether or not if its a leap year 
 
-#pizza order 
-#a python program thatv lets you order pizza
+## pizza order 
+a python program that lets you order pizza
  
- #roller coaster
- #a program that lets you buy tickets to ride a rollercoaster 
+## roller coaster
+ a program that lets you buy tickets to ride a rollercoaster 
