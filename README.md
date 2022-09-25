@@ -14,3 +14,6 @@
 ## TipCalc.py
 *a program that allows the user to calculate the tip for a restaurant bill*
  
+ 
+## Height_width
+*A program that allows you to count how many cans of paint are needed to paint a room*
