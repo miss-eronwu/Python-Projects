@@ -17,3 +17,6 @@
  
 ## [Paint Program](https://github.com/miss-eronwu/Python-Projects/blob/41316e66127504bdd9402cc1a44e9bfd90c03258/height_width.py) 
 *A program that allows you to count how many cans of paint are needed to paint a room by calculating the height and width of the room*
+
+## [Blind Auction](https://github.com/miss-eronwu/Python-Projects/blob/2af69bcc2340dd8d93265b44826b32858b53a79e/blind_auction.py)
+*A program that allows the user to enter a blind auction, a blind auction means you make a bid but you do not see the other bidders*
