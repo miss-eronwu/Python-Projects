@@ -20,3 +20,6 @@
 
 ## [Blind Auction](https://github.com/miss-eronwu/Python-Projects/blob/2af69bcc2340dd8d93265b44826b32858b53a79e/blind_auction.py)
 *A program that allows the user to enter a blind auction, a blind auction means you make a bid but you do not see the other bidders*
+
+##[Caculator](https://github.com/miss-eronwu/Python-Projects/blob/9559268a6d8e701f6b73bdfb15affbb66c63bee4/calculator.py)
+*A program where the user can use a calculator*
